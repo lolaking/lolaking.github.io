@@ -28,7 +28,7 @@ $('top').style.background += "url(" + headerImg + ")";
 /* Array with links ["Title", "url"] */
 var links = [
   ["Mastodon", "https://mastodon.social/@major_crypto"],
-  ["Medium", "lolakingcrypto.medium.com/"],
+  ["Medium", "https://lolakingcrypto.medium.com/"],
 ];
 
 for(var i = 0; i <= links.length - 1; ++i)
