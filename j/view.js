@@ -12,14 +12,14 @@ $('top').style.background += "url(" + headerImg + ")";
 
 
 /* Create the html for the search bar */
-var searchHtml = [
-  '<form method="get" action="https://www.google.com/search">',
-  '<input id="homeSearch" type="text" name="q" placeholder="Search" autofocus>',
-  '</form>'
-].join('');
+// var searchHtml = [
+//   '<form method="get" action="https://www.google.com/search">',
+//   '<input id="homeSearch" type="text" name="q" placeholder="Search" autofocus>',
+//   '</form>'
+// ].join('');
 
-/* Add the search bar to the page */
-$('top').innerHTML += searchHtml;
+// /* Add the search bar to the page */
+// $('top').innerHTML += searchHtml;
 
 
 /* ------ HANDLE THE BOXES ------ */
