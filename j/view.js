@@ -27,7 +27,7 @@ $('top').style.background += "url(" + headerImg + ")";
 
 /* Array with links ["Title", "url"] */
 var links = [
-  ["Un-Official Lola King Crypto","http://lolaking.byethost14.com/"],
+  ["Byet","http://lolaking.byethost14.com/"],
   ["Mastodon", "https://mastodon.social/@major_crypto"],
   ["Medium", "https://lolakingcrypto.medium.com/"],
 ];
