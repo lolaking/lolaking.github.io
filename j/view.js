@@ -1,9 +1,3 @@
-/*
-  Author:    Mysall
-  Use:       Controls the page
-  Date:      June 2014
-*/
-
 /* Create a function for shorter element calling */
 var $ = function(elem){ return document.getElementById(elem); }
 
@@ -35,14 +29,6 @@ $('top').innerHTML += searchHtml;
 var links = [
   ["Mastodon", "https://mastodon.social/@major_crypto"],
   ["Medium", "lolakingcrypto.medium.com/"],
-  ["Translate", "https://translate.google.com/"],
-  ["Dribbble", "https://www.dribbble.com"],
-  ["VK", "http://vk.com/mysall"],
-  ["Mail", "https://mail.cock.li"],
-  ["Leddit", "http://www.reddit.com"],
-  ["2ch", "http://2ch.hk"],
-  ["Stack", "http://stackoverflow.com/"],
-  ["Codrops", "http://tympanus.net/codrops/"],
 ];
 
 for(var i = 0; i <= links.length - 1; ++i)
