@@ -33,13 +33,8 @@ $('top').innerHTML += searchHtml;
 
 /* Array with links ["Title", "url"] */
 var links = [
-  ["/a/", "http://boards.4chan.org/a/"],
-  ["/b/", "http://boards.4chan.org/b/"],
-  ["/g/", "http://boards.4chan.org/g/"],
-  ["/r9k/", "http://boards.4chan.org/r9k/"],
-  ["/wg/", "http://boards.4chan.org/wg/"],
-  ["Pomf", "http://pomf.se/"],
-  ["YouTube", "https://www.youtube.com"],
+  ["Mastodon", "https://mastodon.social/@major_crypto"],
+  ["Medium", "lolakingcrypto.medium.com/"],
   ["Translate", "https://translate.google.com/"],
   ["Dribbble", "https://www.dribbble.com"],
   ["VK", "http://vk.com/mysall"],
