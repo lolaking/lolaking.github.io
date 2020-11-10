@@ -30,6 +30,7 @@ var links = [
   ["Byet","http://lolaking.byethost14.com/"],
   ["Mastodon", "https://mastodon.social/@major_crypto"],
   ["Medium", "https://lolakingcrypto.medium.com/"],
+  ["Binance", "https://www.binance.com/en/register?ref=54810379"],
 ];
 
 for(var i = 0; i <= links.length - 1; ++i)
