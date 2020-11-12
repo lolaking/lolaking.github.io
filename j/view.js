@@ -31,6 +31,7 @@ var links = [
   ["Mastodon", "https://mastodon.social/@major_crypto"],
   ["Medium", "https://lolakingcrypto.medium.com/"],
   ["Binance", "https://www.binance.com/en/register?ref=54810379"],
+  ["BetFury", "https://betfury.io/boxes/all?r=5faba43b132340b06fa0d5d3"],
 ];
 
 for(var i = 0; i <= links.length - 1; ++i)
